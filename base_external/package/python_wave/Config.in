@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_WAVE
+	bool "python-wave"
+	help
+	  This package includes wave python package.
+	  Helps to understand buildroot external trees and package builds.

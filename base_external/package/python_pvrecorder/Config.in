@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_PVRECORDER
+	bool "python-pvrecorder"
+	help
+	  This package includes pvrecorder python package.
+	  Helps to understand buildroot external trees and package builds.

@@ -1,0 +1,5 @@
+source "$BR2_EXTERNAL_assignment_base_PATH/package/python_wave/Config.in"
+source "$BR2_EXTERNAL_assignment_base_PATH/package/python_pyaudio/Config.in"
+source "$BR2_EXTERNAL_assignment_base_PATH/package/python_pvrecorder/Config.in"
+source "$BR2_EXTERNAL_assignment_base_PATH/package/python_rvadfast/Config.in"
+source "$BR2_EXTERNAL_assignment_base_PATH/package/python_scipy/Config.in"

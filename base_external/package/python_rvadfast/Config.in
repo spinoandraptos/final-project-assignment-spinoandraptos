@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_RVADFAST
+	bool "python-rvadfast"
+	help
+	  This package includes rvadfast python package.
+	  Helps to understand buildroot external trees and package builds.

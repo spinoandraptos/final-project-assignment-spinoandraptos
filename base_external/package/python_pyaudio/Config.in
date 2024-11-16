@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_PYAUDIO
+	bool "python-pyaudio"
+	help
+	  This package includes pyaudio python package.
+	  Helps to understand buildroot external trees and package builds.
