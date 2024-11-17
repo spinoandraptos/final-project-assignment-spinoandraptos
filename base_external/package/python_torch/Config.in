@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PYTHON_TORCH
+	bool "python-torch"
+	select BR2_PACKAGE_PYTHON_PYYAML
+	help
+	  This package includes torch python package.
+	  Helps to understand buildroot external trees and package builds.

@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_WHISPER
+	bool "python-whisper"
+	help
+	  This package includes whisper python package.
+	  Helps to understand buildroot external trees and package builds.

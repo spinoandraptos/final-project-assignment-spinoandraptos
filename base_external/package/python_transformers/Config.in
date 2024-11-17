@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_TRANSFORMERS
+	bool "python-transformers"
+	help
+	  This package includes transformers python package.
+	  Helps to understand buildroot external trees and package builds.

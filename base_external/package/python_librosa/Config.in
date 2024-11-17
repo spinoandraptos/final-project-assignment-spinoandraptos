@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_LIBROSA
+	bool "python-librosa"
+	help
+	  This package includes librosa python package.
+	  Helps to understand buildroot external trees and package builds.
