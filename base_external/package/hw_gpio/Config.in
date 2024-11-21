@@ -1,0 +1,5 @@
+config BR2_PACKAGE_HW_GPIO
+	bool "hw-gpio"
+	help
+	  Includes the gpio python test programs in the kernel image.
+	  Used to understand buildroot external trees and package builds.
