@@ -6,7 +6,7 @@
 ##############################################################
 
 # Reference final project git contents using latest commit
-HW_LCD_VERSION = 2eceaf885a3063b6e545b1c3ea06564f3d09019d
+HW_LCD_VERSION = 48836a754e8412d82fd9bc81ecc07f7ce5a7a03d
 
 HW_LCD_SITE = git@github.com:cu-ecen-aeld/final-project-spinoandraptos.git
 HW_LCD_SITE_METHOD = git
