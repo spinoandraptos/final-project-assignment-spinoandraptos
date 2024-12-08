@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_SCIKIT_BUILD
+	bool "python-scikit-build"
+	help
+	  This package includes scikit-build python package.
+	  Helps to understand buildroot external trees and package builds.

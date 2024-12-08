@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_VOSK
+	bool "python-vosk"
+	help
+	  This package includes vosk python package.
+	  Helps to understand buildroot external trees and package builds.

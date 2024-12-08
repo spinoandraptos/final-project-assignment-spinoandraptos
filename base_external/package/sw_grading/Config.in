@@ -1,0 +1,5 @@
+config BR2_PACKAGE_SW_GRADING
+	bool "sw-grading"
+	help
+	  Includes the grading python test programs in the kernel image.
+	  Used to understand buildroot external trees and package builds.

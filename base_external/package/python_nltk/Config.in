@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_NLTK
+	bool "python-nltk"
+	help
+	  This package includes nltk python package.
+	  Helps to understand buildroot external trees and package builds.

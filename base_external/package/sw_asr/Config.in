@@ -1,0 +1,5 @@
+config BR2_PACKAGE_SW_ASR
+	bool "sw-asr"
+	help
+	  Includes the asr python test programs in the kernel image.
+	  Used to understand buildroot external trees and package builds.

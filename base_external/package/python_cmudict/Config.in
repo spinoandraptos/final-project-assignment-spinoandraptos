@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_CMUDICT
+	bool "python-cmudict"
+	help
+	  This package includes cmudict python package.
+	  Helps to understand buildroot external trees and package builds.
